@@ -369,15 +369,17 @@ img{
     color: #FFFF00;
   }
   
-  .home__social-icon .uil-book:hover {
+   .home__social-icon .uil-book:hover {
     color: #6B99CF;
   }
   
-  .home__social-icon .uil-trees-add:hover {
-    color: #ef06c5;
-  }
+  
+ 
   .home__social-icon .uil-panel-add:hover {
-    color: #D84315;
+    color: #260587;
+  }
+  .home__social-icon .uil-sad-cry:hover {
+    color: #0bf013;
   }
 
   .home__social .uil-linkedin-alt:hover {
