@@ -970,6 +970,11 @@ input[type="submit"]:hover {
     
 }
 
+.services__title a {
+    color: #fff;
+    text-decoration: none;
+  }
+
 .services__title:hover{
     color: var(--first-color);
     font-weight: bold;
